@@ -1,0 +1,22 @@
+
+Hospital Management System User Stories
+
+As a patient, I want to register online so that I can book appointments easily.
+
+As a doctor, I want to view my daily appointments so that I can manage my schedule.
+
+As a receptionist, I want to manage patient profiles so that I can update their information.
+
+As a lab technician, I want to receive lab test requests so that I can prepare tests efficiently.
+
+As a pharmacist, I want to manage medication stock so that I can prevent shortages.
+
+As a billing clerk, I want to generate invoices for patients so that payments are processed quickly.
+
+As a nurse, I want to track bed availability so that I can assign patients to rooms.
+
+As a patient, I want to view my medical history online so that I can track my treatments.
+
+As an admin, I want to generate reports on hospital operations so that I can make informed decisions.
+
+As an emergency staff member, I want to prioritize urgent cases so that critical patients are treated first.
