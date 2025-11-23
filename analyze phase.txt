@@ -1,0 +1,21 @@
+Hospital Management System Features:
+
+Patient registration and profile management
+
+Appointment scheduling
+
+Doctor and staff management
+
+Medical records management
+
+Billing and payment system
+
+Pharmacy inventory and prescription management
+
+Lab test requests and results
+
+Bed and room management
+
+Emergency handling system
+
+Reports and analytics
