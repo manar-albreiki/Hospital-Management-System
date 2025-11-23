@@ -1,0 +1,12 @@
+| ID | Feature                    | User Story                                                                                                   | User Role       | Priority | Estimation (Story Points) |
+| -- | -------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------- | -------- | ------------------------- |
+| 1  | Patient Registration       | As a patient, I want to register online so that I can book appointments easily.                              | Patient         | High     | 5                         |
+| 2  | Appointment Scheduling     | As a doctor, I want to view my daily appointments so that I can manage my schedule.                          | Doctor          | High     | 8                         |
+| 3  | Patient Profile Management | As a receptionist, I want to manage patient profiles so that I can update their information.                 | Receptionist    | High     | 5                         |
+| 4  | Lab Test Management        | As a lab technician, I want to receive lab test requests so that I can prepare tests efficiently.            | Lab Technician  | Medium   | 8                         |
+| 5  | Pharmacy Inventory         | As a pharmacist, I want to manage medication stock so that I can prevent shortages.                          | Pharmacist      | Medium   | 5                         |
+| 6  | Billing System             | As a billing clerk, I want to generate invoices for patients so that payments are processed quickly.         | Billing Clerk   | High     | 8                         |
+| 7  | Bed & Room Management      | As a nurse, I want to track bed availability so that I can assign patients to rooms.                         | Nurse           | High     | 8                         |
+| 8  | Medical History Access     | As a patient, I want to view my medical history online so that I can track my treatments.                    | Patient         | Medium   | 5                         |
+| 9  | Reports & Analytics        | As an admin, I want to generate reports on hospital operations so that I can make informed decisions.        | Admin           | Medium   | 8                         |
+| 10 | Emergency Handling         | As an emergency staff member, I want to prioritize urgent cases so that critical patients are treated first. | Emergency Staff | High     | 13                        |
